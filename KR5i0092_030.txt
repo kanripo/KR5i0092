@@ -1,9 +1,11 @@
 #-*- mode: org; -*-
-#+DATE: 2015-08-29 17:59:00.180410
+#+DATE: 2015-08-29 17:59:01.757571
 #+PROPERTY: ID KR5i0092
-#+TITLE:靈寶文檢 Lingbao Wenjian
+#+TITLE:靈寶文檢
+#+PROPERTY: pinyin Lingbao Wenjian
 #+PROPERTY: BASEEDITION CK-KZ
 #+PROPERTY: WITNESS CK-KZ
+#+PROPERTY: JUAN txt
 <pb:CK-EX_KR5i0092_30p001a>¶
 道藏輯要靈寶文檢巻十一¶
 　　目錄¶
@@ -57,6 +59,3 @@
 天蓬尺符　(二道)　　　　上下篆生殺　(二道)¶
 敕令符¶
 ¶
-¶
-¶
-<pb:CK-EX_KR5i0092_30p003b>¶
